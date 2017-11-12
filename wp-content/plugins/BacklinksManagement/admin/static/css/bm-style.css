@@ -1,0 +1,15 @@
+.bm-content-box{
+    background-color: red;
+}
+
+.dataTables_wrapper div.row{
+    width: 100%!important
+}
+
+.checkboxIcon{
+    width: 20px;height: 20px;
+}
+/* .dataTable thead{
+    background-color: #a0a0a0;
+    color: #e4e4e4;
+} */
